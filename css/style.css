@@ -219,5 +219,7 @@ background-color: rgb(224, 220, 220);
 .logo .img_vector{
   width: 10%;
 }
-
+#desaparecer {
+  display: none;
+}
 /*# sourceMappingURL=style.css.map */
