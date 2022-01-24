@@ -207,4 +207,17 @@ background-color: rgb(224, 220, 220);
   padding: 8px;
   font-family: Roboto;  
 }
+
+.contenidoPrincipal .box img{
+	width: 50%;
+	transition: all 250ms ease-in-out;
+}
+	.contenidoPrincipal .box:hover img{
+		transform: scale(1.1);
+		box-shadow: 0 0 5px 0 rgba(0,0,0,.2);
+	}
+.logo .img_vector{
+  width: 10%;
+}
+
 /*# sourceMappingURL=style.css.map */
